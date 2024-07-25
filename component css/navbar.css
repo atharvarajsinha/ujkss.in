@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 47px 94px;
+    border-bottom: 1px solid #bcbaba;
 }
 
 .navbar a{
