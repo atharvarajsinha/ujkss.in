@@ -91,7 +91,12 @@ body{
     }
 
     .hero-section .buttons{
+        display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        max-width: 100%;
     }
 
     .hero-section .btn{
