@@ -19,6 +19,7 @@ body{
     align-items: center;
     text-align: center;
     color: #fff;
+    overflow-y: hidden;
 }
 
 .hero-section .overlay{
@@ -92,7 +93,6 @@ body{
 
     .hero-section .buttons{
         display: flex;
-        flex-direction: column;
         justify-content: center;
         align-items: center;
         gap: 10px;
