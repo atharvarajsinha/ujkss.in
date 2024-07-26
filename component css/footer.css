@@ -6,6 +6,7 @@
     font-size: 16.8px;
     background-color: hsla(33,31%,86%,1);
     border-top: 1px solid #c2a186;
+    bottom: 0;
 }
 
 .footer .text{
