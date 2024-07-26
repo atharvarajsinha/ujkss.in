@@ -106,6 +106,16 @@ body{
     }
 }
 
+.mission{
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.mission h2{
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
 .initiatives{
     text-align: center;
     padding: 20px 20px;
@@ -168,7 +178,7 @@ body{
     background-color: #d35400;
 }
 
-@media (max-width: 960px){
+@media (max-width: 1130px){
     .initiative{
         margin: 20px 0;
     }
