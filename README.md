@@ -1,4 +1,4 @@
-# Upasna Jan Kalyan Sewa Samiti (UJKS) Website
+# Upasna Jan Kalyan Sewa Samiti (UJKSS) Website
 
 This project is a website built for Upasna Jan Kalyan Sewa Samiti, an NGO dedicated to supporting senior citizens. The website was developed by Atharva Raj Sinha as a freelancer project to gain experience, enhance skills, and learn new technologies.
 
